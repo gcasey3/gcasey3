@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gcasey3
 - 👀 I’m interested in ... design, coding, and people! I live in Japan but I am orginally from California. Let's connect! 
-- 🌱 I’m currently learning HTML, CSS< JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, and JAVASCRIPT( I will study a little bit of WebGL later this year... 
 - 💞️ I’m looking to collaborate on ... Interaction Design used on the web, web applications, 
 - 📫 How to reach me ... @masaocooks on instagram
 
